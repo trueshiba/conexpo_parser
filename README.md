@@ -1,5 +1,3 @@
-## Basic env file layout
-```
-#Get your user agent from: https://www.whatismybrowser.com/detect/what-is-my-user-agent/
-AGENT = #SOME_STRING
-```
+### Simple one-off parser for aggregating exhibitors and their corresponding booth numbers
+
+:)
